@@ -83,9 +83,4 @@ Pour cloner et exécuter ce projet localement :
 ---
 
 
-## 💬 Contact
-
-Pour toute question ou suggestion, n'hésitez pas à me contacter via :  
-📧 **sylnavymabika@example.com**  
-
 
