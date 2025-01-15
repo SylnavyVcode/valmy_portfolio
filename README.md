@@ -1,5 +1,4 @@
 
-```markdown
 # Valmy Portfolio 🌟
 
 Bienvenue sur le repository de **Valmy Portfolio**, un portfolio professionnel créé avec [Astro](https://astro.build/). Ce projet met en avant mes compétences en développement fullstack, analyse de données et mes réalisations notables.
@@ -100,6 +99,4 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 Pour toute question ou suggestion, n'hésitez pas à me contacter via :  
 📧 **votre-email@example.com**  
 💼 [Votre profil LinkedIn](https://linkedin.com/in/votre-profil)
-```
 
-Vous pouvez directement copier et coller ce Markdown dans votre fichier `README.md`. Ajoutez simplement vos informations personnelles et le lien une fois déployé. 🎉
