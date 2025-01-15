@@ -61,7 +61,7 @@ Pour cloner et exécuter ce projet localement :
    ```
 
 4. **Visitez votre portfolio localement** :  
-   Ouvrez [http://localhost:3000](http://localhost:3000)](http://localhost:4321/) dans votre navigateur.
+   Ouvrez [http://localhost:4321](http://localhost:4321) dans votre navigateur.
 
 ---
 
