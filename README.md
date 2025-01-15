@@ -46,7 +46,7 @@ Pour cloner et exécuter ce projet localement :
 
 1. **Clonez le repository** :
    ```bash
-   git clone https://github.com/valmy/valmy_portfolio.git
+   git clone https://github.com/SylnavyVcode/valmy_portfolio.git
    cd valmy_portfolio
    ```
 
@@ -61,7 +61,7 @@ Pour cloner et exécuter ce projet localement :
    ```
 
 4. **Visitez votre portfolio localement** :  
-   Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+   Ouvrez [http://localhost:3000](http://localhost:3000)](http://localhost:4321/) dans votre navigateur.
 
 ---
 
