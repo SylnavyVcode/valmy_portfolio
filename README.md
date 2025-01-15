@@ -82,21 +82,10 @@ Pour cloner et exécuter ce projet localement :
 
 ---
 
-## 🖼️ Aperçu en ligne
-
-Découvrez la version en ligne ici : [Valmy Portfolio](https://votre-lien-en-ligne.com) *(mettre le lien une fois déployé)*.
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
-
----
 
 ## 💬 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter via :  
-📧 **votre-email@example.com**  
-💼 [Votre profil LinkedIn](https://linkedin.com/in/votre-profil)
+📧 **sylnavymabika@example.com**  
+
 
